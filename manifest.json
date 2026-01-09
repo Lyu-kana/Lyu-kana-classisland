@@ -1,5 +1,5 @@
 {
-    "ServerKind": 0,
+    "ServerKind": 1,
     "OrganizationName": "Lyu"
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Lyu-kana/Lyu-kana-classisland/master/HOME/ClassPlans.json",
