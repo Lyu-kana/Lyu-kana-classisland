@@ -3,7 +3,7 @@
     "OrganizationName": "Lyu"
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Lyu-kana/Lyu-kana-classisland/master/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/Lyu-kana/Lyu-kana-classisland/master/timelayouts.json",
